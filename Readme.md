@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DiscountFunction.cs](./CS/UDF_Discount/DiscountFunction.cs) (VB: [DiscountFunction.vb](./VB/UDF_Discount/DiscountFunction.vb))
+* [Form1.cs](./CS/UDF_Discount/Form1.cs) (VB: [Form1.vb](./VB/UDF_Discount/Form1.vb))
+* [Program.cs](./CS/UDF_Discount/Program.cs) (VB: [Program.vb](./VB/UDF_Discount/Program.vb))
+<!-- default file list end -->
 # UDF (Custom Function) - How to replace Excel XLL Add-in UDF with a custom function
 
 
